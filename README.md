@@ -11,11 +11,11 @@ This is a userscript script that checks for pro-Russian propaganda in Twitter po
 
 ## Usage
 
-The script will automatically run in the background when you're on the Twitter website. If a tweet contains pro-Russian propaganda, the script will add a red toilet icon next to the user's handle.
+The script will automatically run in the background when you're on the Twitter website. If a tweet contains pro-Russian propaganda, the script will add a poop emoji next to the user's handle.
 
 ## Customization
 
-To customize the keywords that the script checks for, modify the `propagandaKeywords` array in `main.js`.
+To customize the keywords that the script checks for, modify the `propagandaKeywords` array
 To customize the targeted vatniks in the script, modify the `commonVatniks` array
 
 ## DO NOT COPY
