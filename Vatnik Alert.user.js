@@ -16,10 +16,8 @@ const tweets = document.querySelectorAll('article[role="article"]');
 (async function() {
 'use strict';
 const propagandaKeywords = [
-  "russophobia",
   "ukrop",
   "ukrainian nazi",
-  "russophobia",
   "russophobic",
   "ukraine aggression",
   "kiev junta",
