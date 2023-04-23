@@ -46,7 +46,7 @@ const propagandaKeywords = [
   "corrupt zelensky",
   "seymour hersh"
 ];
-const commonVatniks = ["Spriter99880", "mfa_russia", "MedvedevRussiaE", "cotupacs"]; // List of known "vatnik" accounts
+const commonVatniks = ["Spriter99880", "mfa_russia", "MedvedevRussiaE", "cotupacs", "foundring1"]; // List of known "vatnik" accounts
 // Function to check if tweet contains propaganda keywords
 function tweetContainsPropaganda(tweet) {
   const tweetText = tweet.querySelector('div[dir="auto"]').innerText.toLowerCase();
