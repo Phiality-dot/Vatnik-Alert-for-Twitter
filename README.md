@@ -1,6 +1,6 @@
 # Pro-Russian Propaganda Checker for Twitter
 
-This is a userscript script that checks for pro-Russian propaganda in Twitter posts and adds a red toilet icon next to the user's handle if the post contains any propaganda.
+This is a userscript script that checks for pro-Russian propaganda in Twitter posts and adds a poop icon next to the user's handle if the post contains any propaganda.
 
 ## Installation
 
